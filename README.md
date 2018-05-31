@@ -13,9 +13,3 @@ your outgoing email info etc...
 Adjust the Timestamp Iinject node to create incremental backups if you want, or
 trigger the flow how you want...
 
-Be sure to update the exec node config directly to update
-the archive file location. This doesn't work
-when value stored as flow.set and appended to 
-exec. So for now, just enter location in exec node.
-
-
